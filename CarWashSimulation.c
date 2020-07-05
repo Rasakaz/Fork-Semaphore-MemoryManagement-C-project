@@ -1,5 +1,5 @@
 /*
-	Niv Azenkot - 204702740
+	Niv Azenkot 
 */
 
 #include <stdio.h> // I/O
